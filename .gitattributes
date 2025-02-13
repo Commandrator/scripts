@@ -1,0 +1,6 @@
+*.py linguist-detectable=true
+*.md linguist-vendored
+*.txt linguist-vendored
+*.bat linguist-detectable=true
+*.cmd linguist-detectable=true
+*.vbs  linguist-detectable=true
