@@ -1,0 +1,18 @@
+[submodule "cmd-scripts-demos"]
+	path = cmd-scripts-demos
+	url = https://github.com/Commandrator/cmd-scripts-demos
+[submodule "Service_Controler"]
+	path = Service_Controler
+	url = https://github.com/Commandrator/Service_Controler
+[submodule "rp-pico"]
+	path = rp-pico
+	url = https://github.com/Commandrator/rp-pico
+[submodule "telegram_data_analyzer"]
+	path = telegram_data_analyzer
+	url = https://github.com/Commandrator/telegram_data_analyzer
+[submodule "gsb-agi-baglanti-istegi-atma-araci"]
+	path = gsb-agi-baglanti-istegi-atma-araci
+	url = https://github.com/Commandrator/gsb-agi-baglanti-istegi-atma-araci
+[submodule "gtts_demo"]
+	path = gtts_demo
+	url = https://github.com/Commandrator/gtts_demo
